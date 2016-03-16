@@ -1,0 +1,1 @@
+# wcatl-slack-sidebar-theme
